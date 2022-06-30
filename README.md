@@ -1,2 +1,2 @@
 # demorepos
-demo for git intro video
+demo for git intro video lover
